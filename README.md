@@ -7,7 +7,7 @@ To propose an SBF Recommendation:
 
 To be part of discussions:
 - Join the [PARR SBF Google Group](https://groups.google.com/d/forum/parr-sbf-working-group)
-- If resolving an issue, create an new issues [here] (https://github.com/par-roundtable/sustainable-building-framework/issues) and visit the [Sustainable Building Framework Team](https://github.com/orgs/par-roundtable/teams/sustainable-building-framework) to discuss the issue.
+- If resolving an issue, create an new issues [here](https://github.com/par-roundtable/sustainable-building-framework/issues) and visit the [Sustainable Building Framework Team](https://github.com/orgs/par-roundtable/teams/sustainable-building-framework) to discuss the issue.
 
 
 
